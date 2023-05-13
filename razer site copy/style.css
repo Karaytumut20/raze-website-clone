@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+#tepe1{
+    border-style: solid;
+    border-color:black;
+    border-bottom-color:#66B933;
+    padding-left: 31%;
+    border-width: 2px;
+ 
+}
+
+#tepe3 {
+
+}
+#tepe4 {
+    margin: 20px;
+  
+}
+#foto img{
+margin: 20px;
+}
